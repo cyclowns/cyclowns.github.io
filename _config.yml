@@ -26,6 +26,7 @@ header_pages:
   - about.md
 
 style: dark
+footer: ☾⛧
 
 # Build settings
 markdown: kramdown
