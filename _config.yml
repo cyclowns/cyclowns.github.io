@@ -23,6 +23,7 @@ github_username: cyclowns
 
 header_pages:
   - index.md
+  - categories.md
   - about.md
 
 style: dark
