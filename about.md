@@ -4,4 +4,4 @@ title: about
 permalink: /about/
 ---
 
-writings on programming, chaos, music, conlanging, politics ..
+writings on programming, chaos, music, conlanging, politics ...
